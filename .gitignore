@@ -6,6 +6,8 @@
 *.vok
 *.vos
 *.lia.cache
+*.ml
+*.mli
 \#*.v\#
 .Makefile.coq.d
 Makefile.coq
